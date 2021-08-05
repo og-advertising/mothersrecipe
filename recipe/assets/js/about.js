@@ -1,0 +1,1 @@
+$('#fullpage').fullpage({scrollBar:true,autoScrolling:true,scrollHorizontally:true,});
